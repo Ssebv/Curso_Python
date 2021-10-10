@@ -1,0 +1,11 @@
+
+IMAGES = ("""
++---+
+    |
+    |
+    |
+    ===
+""")
+
+print(IMAGES)
+print
